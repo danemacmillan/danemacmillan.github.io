@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.header-avatar {
+  height: 40px;
+  float: left;
+  border-radius: 100px;
+  margin: 8px;
+}
+
 .footer-col-wrapper p {
   text-align: center;
   font-size: 14px;
