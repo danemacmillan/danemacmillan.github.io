@@ -6,7 +6,7 @@ email: ""
 permalink: /:title/
 
 theme: minima
-show_excerpts: false
+show_excerpts: true
 header_pages:
   - about.md
 disqus:
