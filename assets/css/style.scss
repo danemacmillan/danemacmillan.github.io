@@ -2,7 +2,7 @@
 # Override main SCSS.
 ---
 
-@import "minima";
+@import "{{ site.theme }}";
 
 .header-avatar {
   height: 40px;
