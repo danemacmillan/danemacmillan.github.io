@@ -3,3 +3,7 @@
 
 @import "{{ site.theme }}";
 
+.footer-col-wrapper p {
+  text-align: center;
+  font-size: 14px;
+}

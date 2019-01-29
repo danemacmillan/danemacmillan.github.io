@@ -2,7 +2,7 @@ title: danemacmillan
 description: This is where Dane MacMillan has written things down.
 author: Dane MacMillan
 url: https://danemacmillan.com
-email: work@danemacmillan.com
+email: ""
 permalink: /:title/
 
 theme: minima
@@ -13,12 +13,4 @@ disqus:
   shortname: danemacmillan
 
 google_analytics: UA-133416235-1
-
-minima:
-  social_links:
-    twitter: dane_macmillan
-    github: danemacmillan
-    instagram: danemacmillan
-    linkedin: danemacmillan
-    rss: rss
 
