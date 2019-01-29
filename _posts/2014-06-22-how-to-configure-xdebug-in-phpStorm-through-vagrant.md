@@ -7,8 +7,6 @@ tags: [PHP, Xdebug, Vagrant, PhpStorm, Debugging, Tech, HowTo, CentOS, MacOS]
 comments: true
 ---
 
-# How to configure Xdebug in PhpStorm through Vagrant
-
 This guide will explain how to configure [PhpStorm](http://www.jetbrains.com/phpstorm/) to use PHP's [Xdebug](http://xdebug.org/) extension through [Vagrant](http://www.vagrantup.com/). The process is not as straightforward as it should be, and available documentation has not been clear on this usage. It will be significantly easier when PhpStorm 8 is released, due to its ability to [define remote interpreters](http://blog.jetbrains.com/phpstorm/2014/04/php-remote-interpreters-support-in-phpstorm-8-eap/). When that is available, a new post will be written, with a link to it from this one.
 
 **Update Feb. 22, 2015:** PhpStorm 8 was [released late 2014](https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Development+Roadmap). As indicated in the original publication, the steps to take advantage of remote interpreters will be delineated. The process only varies slightly from the original, so the steps will be included below&mdash;instead of in a new article&mdash;with a clear distinction between the original steps, which still work very well, and the new ones. [Jump to the revision](#content-remote-debugger-v8).
