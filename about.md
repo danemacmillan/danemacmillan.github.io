@@ -3,9 +3,10 @@ title: About
 permalink: /about/
 ---
 
-These writings  will more or less reflect the author, Dane MacMillan. Much of it will be related to **full stack software development**, so a multitude of topics may be written about. There is also a chance that non-technical posts get published.
+These writings reflect the author, Dane MacMillan. Some of it will relate 
+to **full stack software development**; some of it will not.
 
-> Interests: full stack software development, security, privacy, Mozilla, private trackers, motorcycles, firearms, political incorrectness, aphorisms, merino wool, and strength training.
+> **Interests**: full stack software development, home automation (via HomeKit), Apple, security, privacy, Bash, dotfiles, PHP, aphorisms, merino wool.
 
 ## Around the Web
 
