@@ -97,7 +97,7 @@ This step is not complicated. It must be made sure that the Xdebug port defined 
 
 5. Save the changes.
 
-![](/content/images/2017/02/Screen-Shot-2014-06-21-at-11-11-23-AM.png)
+![]({{site.url}}/assets/img/Screen-Shot-2014-06-21-at-11-11-23-AM.png)
 
 The screenshot lists two additional suboptions, namely, "Skipped Paths," and "DBGp Proxy." They can be ignored. The latter may seem like it could be needed, as it provides an "IDE key," "Host," and "Port" option as well&mdash;and in all likeliness appears to correspond with settings already configured&mdash;but it is not. This is for setting up a proxy on a remote server that will accept simultaneous connections from multiple developers. In order to do that, a script is installed on the remote server that listens for these connections, and delegates each debug session based on the incoming IDE key.
 
@@ -122,7 +122,7 @@ In order for PhpStorm to make sense of what Vagrant is, and how connections betw
     
     - Save the changes.
     
-    ![](/content/images/2014/Jun/Screen-Shot-2014-06-20-at-12-51-41-PM.png)
+    ![]({{site.url}}/assets/img/Screen-Shot-2014-06-20-at-12-51-41-PM.png)
 
 	**Notes about the screenshot:** to elucidate any possible confusion from the values defined in the screenshot, some of them will be explained. 
 
@@ -148,7 +148,7 @@ In order for PhpStorm to make sense of what Vagrant is, and how connections betw
     
     - By this point PhpStorm should have automatically tested the connection and reported the version of the remote PHP interpreter in the guest OS. It will have also named the remote interpreter.
     
-	![](/content/images/2015/02/Screen-Shot-2015-02-22-at-10-44-27-AM.png)
+	![]({{site.url}}/assets/img/Screen-Shot-2015-02-22-at-10-44-27-AM.png)
 
     **Notes about the screenshot:** There are two windows layered on top of the main preferences window. The foremost one is triggered by clicking the "+" symbol in the middle layer window. That middle layer window is triggered by clicking the "..." button next to the "Interpreter" setting.
     
@@ -176,7 +176,7 @@ The steps for creating the debug configuration are delineated below, followed by
 
 8. Save the changes.
 
-![](/content/images/2014/Jun/Screen-Shot-2014-06-22-at-9-52-04-AM.png)
+![]({{site.url}}/assets/img/Screen-Shot-2014-06-22-at-9-52-04-AM.png)
 
 <span id="content-listen-connections"></span>
 
@@ -184,9 +184,9 @@ The steps for creating the debug configuration are delineated below, followed by
 
 At the top right of PhpStorm should be a toolbar similar to the images provided. With the project open, select "Vagrant" from the dropdown. Remember that this was just defined. It is the "PHP Web Application." A few buttons over there is a telephone receiver icon with a bug at the mouthpiece and a banned symbol at the earpiece. Click on this. The banned symbol at the earpiece should change into a sort of abstract visualization indicating that PhpStorm is listening for connections.
 
-![](/content/images/2014/Jun/Screen-Shot-2014-06-22-at-12-46-01-PM.png)
+![]({{site.url}}/assets/img/Screen-Shot-2014-06-22-at-12-46-01-PM.png)
 
-![](/content/images/2014/Jun/Screen-Shot-2014-06-22-at-12-38-47-PM.png)
+![]({{site.url}}/assets/img/Screen-Shot-2014-06-22-at-12-38-47-PM.png)
 
 PhpStorm is ready to accept connections from Xdebug. All that remains is knowing how to trigger them.
 
@@ -214,7 +214,7 @@ Open a file in the project, and click in the empty margin to the left of a line 
 
 Return to the browser and click on the the debug icon that it provides. That will set a browser cookie with the defined IDE key, which will be read by Xdebug where PHP is running code in the guest OS, [as mentioned earlier](#content-idekey). In turn, that commands Xdebug to send a request to PhpStorm, which is listening for a connection. Navigate to a page that will be affected by the breakpoint set in PhpStorm, or refresh the page if that has already been done; note that the page appears to hang. That means PhpStorm has paused execution of the PHP script at the designated breakpoint until the code has been stepped through or execution resumed. Return to PhpStorm and look for the file with the set breakpoint. The debuger tab should be visible, with all the variables and constants of the page ready to get populated with data. This is how it should appear:
 
-![](/content/images/2014/Jun/Screen-Shot-2014-06-22-at-1-07-29-PM.png)
+![]({{site.url}}/assets/img/Screen-Shot-2014-06-22-at-1-07-29-PM.png)
 
 Notice the `$_COOKIE` superglobal includes the `XDEBUG_SESSION = "debugit"` cookie set by the browser.
 
