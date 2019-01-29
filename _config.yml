@@ -1,8 +1,8 @@
 title: danemacmillan
-description: This is where danemacmillan has written things down.
+description: This is where Dane MacMillan has written things down.
 permalink: /:title/
 
 theme: minima
-show_excerpts: true
+show_excerpts: false
 header_pages:
   - about.md

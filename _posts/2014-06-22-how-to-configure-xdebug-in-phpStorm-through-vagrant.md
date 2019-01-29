@@ -4,6 +4,7 @@ permalink: /how-to-configure-xdebug-in-phpstorm-through-vagrant/
 title:  "How to configure Xdebug in PhpStorm through Vagrant"
 categories: [technology, software, development]
 tags: [PHP, Xdebug, Vagrant, PhpStorm, Debugging, Tech, HowTo, CentOS, MacOS]
+comments: true
 ---
 
 # How to configure Xdebug in PhpStorm through Vagrant

@@ -1,4 +1,4 @@
 ---
-
+list_title: "Writings"
 ---
 
