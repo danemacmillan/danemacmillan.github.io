@@ -7,3 +7,6 @@ theme: minima
 show_excerpts: false
 header_pages:
   - about.md
+disqus:
+  shortname: danemacmillan
+
