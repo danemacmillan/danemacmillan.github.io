@@ -7,9 +7,7 @@ These writings  will more or less reflect the author, Dane MacMillan. Much of it
 
 > Interests: full stack software development, security, privacy, Mozilla, private trackers, motorcycles, firearms, political incorrectness, aphorisms, merino wool, and strength training.
 
---- 
-
-### Around the Web
+## Around the Web
 
 - [Twitter](https://twitter.com/dane_macmillan)
 - [LinkedIn](http://ca.linkedin.com/in/danemacmillan)
@@ -19,6 +17,6 @@ These writings  will more or less reflect the author, Dane MacMillan. Much of it
 - [TripAdvisor](http://www.tripadvisor.ca/members/danemacmillan)
 - [IMDB](http://www.imdb.com/user/ur25031098/)
 
-### Getting In Touch
+## Getting In Touch
 
 You can find me idling on several IRC servers most of the day. My nick is `danemacmillan`.
