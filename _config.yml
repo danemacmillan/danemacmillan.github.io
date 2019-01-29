@@ -1,6 +1,8 @@
 title: danemacmillan
 description: This is where Dane MacMillan has written things down.
+author: Dane MacMillan
 url: https://danemacmillan.com
+email: work@danemacmillan.com
 permalink: /:title/
 
 theme: minima
