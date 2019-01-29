@@ -246,11 +246,11 @@ Notice the `$_COOKIE` superglobal includes the `XDEBUG_SESSION = "debugit"` cook
 
 **Other reference material**
 
-1. <span id="source1"></span>[](http://xdebug.org/docs/remote#communication)
+1. <span id="source1"></span>[http://xdebug.org/docs/remote#communication](http://xdebug.org/docs/remote#communication)
 
-2. <span id="source2"></span>[](http://superuser.com/questions/310697/connect-to-the-host-machine-from-a-virtualbox-guest-os/310745#310745)
+2. <span id="source2"></span>[http://superuser.com/questions/310697/connect-to-the-host-machine-from-a-virtualbox-guest-os/310745#310745](http://superuser.com/questions/310697/connect-to-the-host-machine-from-a-virtualbox-guest-os/310745#310745)
 
-3. <span id="source3"></span>[](http://confluence.jetbrains.com/display/PhpStorm/Zero-configuration+Web+Application+Debugging+with+Xdebug+and+PhpStorm)
+3. <span id="source3"></span>[http://confluence.jetbrains.com/display/PhpStorm/Zero-configuration+Web+Application+Debugging+with+Xdebug+and+PhpStorm](http://confluence.jetbrains.com/display/PhpStorm/Zero-configuration+Web+Application+Debugging+with+Xdebug+and+PhpStorm)
 
 **Feedback**
 
