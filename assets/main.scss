@@ -19,6 +19,18 @@
   padding-right: 15px;
 }
 
-.page-title--404notfound .page-content {
-  background: transparent url(/assets/img/hacking.gif) repeat center center;
+.page-title--404notfound {
+  .page-content {
+    background: transparent url(/assets/img/hacking-in-progress.gif) repeat center center;
+
+    .post-header {
+      color: #0000ff;
+      text-shadow: 0 0 15px #fff, 0 0 15px #fff, 0 0 15px #fff;
+    }
+
+    .post-content {
+      color: #fff;
+      text-shadow: 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000;
+    }
+  }
 }
