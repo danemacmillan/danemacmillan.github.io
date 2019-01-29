@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <img class="header-avatar" src="{{site.url}}/assets/img/danemacmillan.avatar.square.jpg" alt="Dane MacMillan's avatar." />
+    <img class="header-avatar" src="https://www.gravatar.com/avatar/53b7634dd744aa98f68ec84ebe56675e?s=200" alt="Dane MacMillan's avatar." width="40" height="40" />
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if titles_size > 0 -%}
