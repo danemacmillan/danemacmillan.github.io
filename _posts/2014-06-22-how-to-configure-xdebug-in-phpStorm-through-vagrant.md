@@ -1,5 +1,4 @@
 ---
-layout: post
 permalink: /how-to-configure-xdebug-in-phpstorm-through-vagrant/
 title:  "How to configure Xdebug in PhpStorm through Vagrant"
 categories: [technology, software, development]
