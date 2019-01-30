@@ -34,3 +34,6 @@ vendor/
 node_modules/
 bower_components/
 
+## Jekyll
+.sass-cache/
+_site/
