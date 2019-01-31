@@ -17,3 +17,7 @@ $ script/bootstrap
 $ script/server
 ```
 
+## Author
+
+Dane MacMillan <work@danemacmillan.com>
+
