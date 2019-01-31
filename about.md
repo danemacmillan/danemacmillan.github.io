@@ -6,7 +6,7 @@ permalink: /about/
 These writings reflect the author, Dane MacMillan. Some of it will relate 
 to **full stack software development**; some of it will not.
 
-> **Interests**: full stack software development, cloud infrastructure, deployment optimization, Bash, dotfiles, PHP, data hoarding, home automation (via HomeKit), Apple, security, privacy, aphorisms, merino wool.
+> **Interests**: full stack software development, scaling cloud infrastructure (GCP), deployment optimization, Bash, dotfiles, PHP, data hoarding, home automation (HomeKit), Apple, security, privacy, aphorisms, merino wool.
 
 ## Getting In Touch
 

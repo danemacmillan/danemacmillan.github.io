@@ -4,6 +4,11 @@
 
 @import "{{ site.theme }}";
 
+.site-header {
+  background-color: #efefef;
+  border-top: 0;
+}
+
 .header-avatar {
   height: 40px;
   width: auto;
