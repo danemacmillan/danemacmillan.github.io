@@ -24,3 +24,10 @@ You can find me idling on several IRC servers most of the day. My nick is `danem
 - [Twitter](https://twitter.com/dane_macmillan)
 - [TripAdvisor](http://www.tripadvisor.ca/members/danemacmillan)
 - [IMDB](http://www.imdb.com/user/ur25031098/)
+
+<p>
+  <a href="https://stackexchange.com/users/3560793">
+    <img src="https://stackexchange.com/users/flair/3560793.png" width="208" height="58" alt="Profile for danemacmillan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="Profile for danemacmillan on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+  </a>
+</p>
+
