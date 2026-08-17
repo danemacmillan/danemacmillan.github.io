@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /writing-a-job-description-that-software-developers-recognize-themselves-in/
-title:  "Writing a job description that Software Developers recognize themselves in"
+title:  "Writing a job description that software developers recognize themselves in"
 categories: [technology, software, development]
 tags: [hiring, teams]
 comments: true
