@@ -3,11 +3,11 @@ layout: post
 permalink: /writing-a-job-description-that-software-developers-recognize-themselves-in/
 title:  "Writing a job description that software developers recognize themselves in"
 categories: [technology, software, development]
-tags: [hiring, teams]
+tags: [fortnine, hiring, teams]
 comments: true
 ---
 
-Over the years, I wrote and revised a number of job descriptions while building out the software development team at [FortNine](https://fortnine.ca). This one stood out.
+Over the years, I wrote and revised a number of job descriptions while building out the software development team at [FortNine](/my-career-at-fortnine/). This one stood out.
 
 It consistently attracted some of the strongest candidates I interviewed, including developers who seemed to recognize themselves in the description before we ever spoke. Rather than reducing the role to a generic inventory of technologies and responsibilities, I tried to describe how we thought about software development, what we valued in an engineer, and the kind of person who would thrive on the team.
 
