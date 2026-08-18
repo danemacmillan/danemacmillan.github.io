@@ -7,11 +7,9 @@ tags: [hiring, teams]
 comments: true
 ---
 
-Over the years, I wrote and revised a number of job descriptions while building out our software development team at [FortNine](https://fortnine.ca). This one stood out.
+Over the years, I wrote and revised a number of job descriptions while building out the software development team at [FortNine](https://fortnine.ca). This one stood out.
 
-It consistently attracted some of the strongest candidates we interviewed, including developers who seemed to recognize themselves in the description before we ever spoke. Rather than reducing the role to a generic inventory of technologies and responsibilities, I tried to describe how we thought about software development, what we valued in an engineer, and the kind of person who would thrive on the team.
-
-Some of the technologies and references are inevitably products of their time, but I still like the philosophy behind it. More importantly, it worked.
+It consistently attracted some of the strongest candidates I interviewed, including developers who seemed to recognize themselves in the description before we ever spoke. Rather than reducing the role to a generic inventory of technologies and responsibilities, I tried to describe how we thought about software development, what we valued in an engineer, and the kind of person who would thrive on the team.
 
 This is the original job description, preserved largely as I wrote it.
 
@@ -24,7 +22,9 @@ This is the original job description, preserved largely as I wrote it.
 Senior Software Developer
 ========================
 
-Behind the Web site that operates FortNine are a suite of custom tools and business logic that have powered the company to success. They are now being rewritten for the Web to be accessible from anywhere, simultaneously giving developers and business analysts the opportunity to discard cruft and build on years of insight. This undertaking demands qualified developers who can fluently negotiate the complexities of both frontend and backend development. A Senior Full Stack Web Developer at FortNine is in possession of several archetypal thoughts or key strengths.
+Behind the Web site that operates FortNine are a suite of custom tools and business logic that have powered the company to success. They are now being rewritten for the Web to be accessible from anywhere, simultaneously giving developers and business analysts the opportunity to discard cruft and build on years of insight. This undertaking demands qualified developers who can fluently negotiate the complexities of both frontend and backend development. 
+
+**A Senior Software Developer at FortNine is in possession of several archetypal thoughts or key strengths.**
 
 ### Key Strengths
 
@@ -59,7 +59,7 @@ Behind the Web site that operates FortNine are a suite of custom tools and busin
 - Healthy aversion to reinventing or redefining the wheel, which means knowledge of frontend and backend design patterns, OOP, and other concepts like autoloading.
 - Git. You know, distributed Cmd+Z for teams.
 - Extraordinary comfort in a Unix-based terminal. Do you even multiplex, bro? Curating a meticulous collection of dotfiles carries bonus points.
-- MacOS or GNU Linux knowledge.
+- macOS or GNU/Linux knowledge.
 - Have probably stepped through a million lines of code. Knowing how to debug software and read through large frameworks is fundamental. 
 - Basic familiarity with daemons like Nginx, Redis, Varnish, ElasticSearch, PHP-FPM, or Gunicorn.
 - Basic exposure to cloud infrastructure like GCP or AWS.
@@ -67,15 +67,7 @@ Behind the Web site that operates FortNine are a suite of custom tools and busin
 ### Reasons to Join FortNine
 
 - Work with a team that has deep respect for quality, well-researched solutions in favour of quick one-offs that accumulate technical debt.
-- Healthy work/life balance.
-- Competitive salary.
-- Three weeks paid vacation.
-- Paid personal days.
-- Health insurance (medical, dental, life).
-- New MacBook Pro, and access to the best tools to effectively perform.
-- Abundance of snacks.
-- Proximity to metro station.
-- Hybrid and remote working arrangements are possible.
+- [...]
 
 ### About FortNine
 
