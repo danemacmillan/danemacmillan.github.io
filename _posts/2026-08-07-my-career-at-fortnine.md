@@ -21,7 +21,9 @@ Most career summaries are exercises in compression. A resume or [LinkedIn profil
 
 None of this is intended to suggest that these outcomes were mine alone. FortNine’s growth was the work of many people across the company, including the developers and technical leaders I worked alongside and had the opportunity to lead. This is my attempt to document the part I played in that growth with enough detail to preserve the scope, progression, and continuity of the work rather than reducing nearly twelve years to another highlight reel.
 
+<br/>
 
+![FortNine logo]({{site.url}}/assets/img/fortnine-logo-red-2299w512h.png)
 
 <br/>
 
@@ -466,3 +468,8 @@ Promoted to Vice President of Technology in January 2024 with enterprise-wide ac
 - Expanded GitHub and modern development tooling beyond the original software team.
 - Led AI enablement across the front office.
 - Treated employee tooling, onboarding, credentials, knowledge systems, and internal productivity as part of the broader Technology mandate.
+
+<br />
+
+![FortNine's F9 emblem]({{site.url}}/assets/img/f9-emblem-red-bold-transparent.png)
+
