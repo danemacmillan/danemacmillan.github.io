@@ -29,7 +29,7 @@ Anyway, enough of this preamble. What does the app actually do?
 
 Put simply, DistilledLink lets users of iCloud Drive share _direct links_ to their files already stored on it.
 
-The distinction between how iCloud Drive natively lets you share a file and how DistilledLink lets you share a file comes down to one simple distinction. **When you share a link to a file using DistilledLink, the person, site, automation, script, or app on the receiveing end will get that file opened immediately**, no intermediate "are you sure?" or "click here" download page that interrupts that direct flow, and no requirement for the receiving end to authenticate with an Apple account.
+The distinction between how iCloud Drive natively lets you share a file and how DistilledLink lets you share a file comes down to one simple difference. **When you share a link to a file using DistilledLink, the person, site, automation, script, or app on the receiveing end will get that file opened immediately**, no intermediate "are you sure?" or "click here" download page that interrupts that direct flow, and no requirement for the receiving end to authenticate with an Apple account.
 
 ### Some examples of how to use direct links
 
